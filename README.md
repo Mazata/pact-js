@@ -90,7 +90,7 @@ Learn the key Pact JS features in 60 minutes: https://github.com/pact-foundation
 ## Installation
 
 ```shell
-npm i -S @pact-foundation/pact@latest
+npm i -S nestjs-pact @pact-foundation/pact@^9.0.0
 
 # 🚀 now write some tests!
 ```
